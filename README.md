@@ -42,59 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[JetBrains DataGrip](https://www.jetbrains.com/datagrip/)**  
-
-  Powerful cross-platform SQL IDE with deep code intelligence, refactoring, and support for a wide range of relational and NoSQL databases. Free for non-commercial use; commercial subscription available.
-
-
-
-- **[DBeaver (Enterprise / Cloud editions)](https://dbeaver.com/)**  
-
-  Extended commercial versions of the popular open-source tool, adding advanced features, cloud collaboration, and enterprise support.
-
-
-
-- **[dbForge Studio](https://www.devart.com/dbforge/)**  
-
-  Feature-rich IDEs for SQL Server, MySQL, Oracle, PostgreSQL, and more, with strong schema comparison, data generation, and DevOps-oriented tooling.
-
-
-
-- **[Navicat](https://www.navicat.com/)**  
-
-  Popular multi-database GUI tool with design, query, transfer, and administration features across major SQL engines.
-
-
-
-- **[TablePlus](https://tableplus.com/)**  
-
-  Fast, native, modern database client known for clean UI and excellent performance on macOS, Windows, and Linux.
-
-
-
-- **[Toad for Oracle / Toad family](https://www.quest.com/toad/)**  
-
-  Long-standing professional tools especially strong for Oracle, with deep PL/SQL development, optimization, and administration features.
-
-
-
-- **[Aqua Data Studio](https://www.aquafold.com/)**  
-
-  Universal database IDE supporting a broad set of platforms with visual analytics and administration capabilities.
-
-
-
-- **[SQLGate, HeidiSQL Premium, Valentina Studio](https://www.sqlgate.com/)**  
-
-  Additional commercial or freemium database clients offering polished interfaces and specialized features for various engines.
-
-
-
-- **[Other commercial SQL tools](https://www.jetbrains.com/datagrip/)**  
-
-  Specialized IDEs and management studios focused on particular databases or enterprise workflows.
+| Product | Description | Starting Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[JetBrains DataGrip](https://www.jetbrains.com/datagrip/)** | Powerful cross-platform SQL IDE with deep code intelligence, refactoring, and multi-engine database support. | $10.90/user/mo (or $109/yr) for individuals; $24.90/user/mo (or $249/yr) for organizations | **Free forever** for non-commercial use (learning, hobby, open-source); 30-day full-featured free trial for commercial use |
+| **[DBeaver PRO](https://dbeaver.com/)** | Extended commercial editions (Lite, Enterprise, Ultimate) adding NoSQL support, schema comparison, visual query builder, and team management. | $11/user/mo (or $110/user/yr) for Lite; $25/user/mo (or $250/user/yr) for Enterprise | 14-day full-featured free trial across all PRO editions; non-commercial Early Access Program with max 3 concurrent connections and 5 tasks |
+| **[dbForge Studio](https://www.devart.com/dbforge/)** | Feature-rich IDEs for SQL Server, MySQL, Oracle, and PostgreSQL with visual query design, data comparison, synchronization, and debugging. | $199.95/yr for MySQL/PostgreSQL Standard; $399.95/yr for SQL Server Standard | 30-day full-featured free trial (Enterprise features); automatically reverts to permanent free **Express Edition** forever (core editing/formatting, no visual query builder or diff tools) |
+| **[Navicat](https://www.navicat.com/)** | Universal multi-database administration and design GUI supporting MySQL, PostgreSQL, Oracle, SQLite, SQL Server, Redis, and MongoDB. | $19.99/mo (or $199.90/yr) for single DB; $39.99/mo (or $399.90/yr) for Navicat Premium | **Navicat Premium Lite** is free forever for commercial and non-commercial use (basic operations, up to 5 user accounts per organization); 14-day full-featured free trial for Premium |
+| **[TablePlus](https://tableplus.com/)** | Native, fast database management client with inline editing, multiple tabs, and lightweight UI across macOS, Windows, and Linux. | $89 one-time perpetual license (1 year updates, 1 device); $9.99/mo subscription | **Free forever plan** with limits: max 2 open tabs, 2 open query windows, and 2 active filters simultaneously |
+| **[Toad for Oracle](https://www.quest.com/toad/)** | Enterprise database management and PL/SQL development suite with deep code optimization, automated testing, and DBA tooling. | $550/user/yr for Base Edition subscription | 30-day full-featured free trial with complete access to evaluate all capabilities |
+| **[Aqua Data Studio](https://www.aquafold.com/)** | Universal database IDE and visual analytics tool supporting 40+ database platforms with ER modeling and visual query building. | $499/user/yr for Standard Edition | 14-day full-featured free trial with all visual analytics, ER diagramming, and administration tools |
+| **[SQLGate](https://www.sqlgate.com/)** | Multi-database IDE for Oracle, SQL Server, MySQL, PostgreSQL, and DB2 with multi-query execution and reporting. | $15/user/mo (or $150/user/yr) for MySQL/PostgreSQL Standard; $25/user/mo for Oracle/SQL Server | **Free Version** forever limited to 1 concurrent connection session, 1 editor window/tab, and 5 concurrent query executions; 14-day free trial for Standard edition |
+| **[Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview)** | Cross-platform database GUI for MySQL, PostgreSQL, SQLite, MS SQL Server, and Valentina DB with schema and data management. | $199.99 perpetual license (or $79.99 single-OS license) for Valentina Studio PRO | **Valentina Studio (Free edition)** is free forever with unlimited tables/records for core database management, schema editing, and SQL querying; PRO tools require paid license |
+| **[PopSQL](https://popsql.com/)** | Collaborative SQL editor for teams with shared queries, version history, autocomplete, and scheduled dashboards. | $19/editor/mo for Premium plan; $36/editor/mo for Business plan | **Free forever plan** limited to 1 editor, 10 saved queries, 2 database connections, 2 dashboards, 2 weekly schedules, 1-day version history, and 1-hour run history |
 
 
 
