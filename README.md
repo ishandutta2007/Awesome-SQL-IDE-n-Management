@@ -78,6 +78,9 @@ Below are top open-source database IDEs, web management portals, and CLI utiliti
 - **[DbGate](https://github.com/dbgate/dbgate)** [![GitHub stars](https://img.shields.io/github/stars/dbgate/dbgate?style=social&color=white)](https://github.com/dbgate/dbgate/stargazers)  
   Smart open-source SQL + NoSQL database manager that runs seamlessly as both a desktop app (Electron) and a browser-based web application (Docker/NPM). Supports MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Redis, and SQLite.
 
+- **[HiDataLinker](https://github.com/henrybit/HiDataLinker)** [![GitHub stars](https://img.shields.io/github/stars/henrybit/HiDataLinker?style=social&color=white)](https://github.com/henrybit/HiDataLinker/stargazers)  
+  Free MIT native desktop database client for MySQL and PostgreSQL (Windows/macOS/Linux). Local-first connections, browse, query, Dump, and same-engine migrate — light dual-engine workstation, not a universal JDBC suite.
+
 - **[HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)** [![GitHub stars](https://img.shields.io/github/stars/HeidiSQL/HeidiSQL?style=social&color=white)](https://github.com/HeidiSQL/HeidiSQL/stargazers)  
   Lightweight, lightning-fast Windows GUI client for MySQL, MariaDB, Percona, PostgreSQL, Microsoft SQL Server, and SQLite. Supports session management, bulk data export, user permission editing, and query optimization.
 
